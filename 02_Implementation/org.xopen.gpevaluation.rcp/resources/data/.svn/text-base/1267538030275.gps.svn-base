@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scheme>
+<name>aa</name>
+<remark>asdf</remark>
+<author>Admin</author>
+<createdtime>1267538030275</createdtime>
+<maxid>11</maxid>
+<factor id="1">
+<name>未命名1</name>
+<father>0</father>
+<level>BASE</level>
+</factor>
+<factor id="2">
+<name>未命名2</name>
+<father>0</father>
+<level>BASE</level>
+</factor>
+<factor id="3">
+<name>未命名3</name>
+<father>0</father>
+<level>BASE</level>
+</factor>
+<factor id="4">
+<name>未命名4</name>
+<father>0</father>
+<level>BASE</level>
+</factor>
+<factor id="5">
+<name>未命名5</name>
+<father>0</father>
+<level>BASE</level>
+</factor>
+<factor id="6">
+<name>未命名6</name>
+<father>0</father>
+<level>BASE</level>
+</factor>
+<factor id="7">
+<name>未命名7</name>
+<father>3</father>
+<level>BASE</level>
+</factor>
+<factor id="8">
+<name>未命名8</name>
+<father>3</father>
+<level>BASE</level>
+</factor>
+<factor id="9">
+<name>未命名9</name>
+<father>3</father>
+<level>BASE</level>
+</factor>
+<factor id="10">
+<name>未命名10</name>
+<father>3</father>
+<level>BASE</level>
+</factor>
+<factor id="11">
+<name>未命名11</name>
+<father>3</father>
+<level>BASE</level>
+</factor>
+<products>adasfdfs</products>
+</scheme>

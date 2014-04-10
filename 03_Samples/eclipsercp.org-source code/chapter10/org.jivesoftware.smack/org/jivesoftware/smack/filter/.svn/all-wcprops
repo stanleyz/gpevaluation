@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter
+END
+MessageTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/MessageTypeFilter.class
+END
+PacketFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/PacketFilter.class
+END
+ThreadFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/ThreadFilter.class
+END
+PacketTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/PacketTypeFilter.class
+END
+NotFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/NotFilter.class
+END
+OrFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/OrFilter.class
+END
+ToContainsFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/ToContainsFilter.class
+END
+AndFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/AndFilter.class
+END
+FromContainsFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/FromContainsFilter.class
+END
+PacketExtensionFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/PacketExtensionFilter.class
+END
+PacketIDFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter10/org.jivesoftware.smack/org/jivesoftware/smack/filter/PacketIDFilter.class
+END

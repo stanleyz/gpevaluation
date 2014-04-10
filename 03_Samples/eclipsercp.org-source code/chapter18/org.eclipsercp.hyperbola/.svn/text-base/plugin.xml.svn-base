@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.1"?>
+<plugin>
+
+     <extension
+         id="application"
+         point="org.eclipse.core.runtime.applications">
+      <application>
+         <run
+               class="org.eclipsercp.hyperbola.Application">
+         </run>
+      </application>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectives">
+      <perspective
+            name="Hyperbola Perspective"
+            class="org.eclipsercp.hyperbola.Perspective"
+            id="org.eclipsercp.hyperbola.perspective">
+      </perspective>
+   </extension>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="org.eclipsercp.hyperbola.ContactsView"
+            icon="icons/groups.gif"
+            id="org.eclipsercp.hyperbola.views.contacts"
+            name="Contacts"/>
+   </extension>
+   <extension
+         point="org.eclipse.core.runtime.adapters">
+      <factory
+            adaptableType="org.jivesoftware.smack.Roster"
+            class="org.eclipsercp.hyperbola.AdapterFactory">
+         <adapter type="org.eclipse.ui.model.IWorkbenchAdapter"/>
+      </factory>
+      <factory
+            adaptableType="org.jivesoftware.smack.RosterGroup"
+            class="org.eclipsercp.hyperbola.AdapterFactory">
+         <adapter type="org.eclipse.ui.model.IWorkbenchAdapter"/>
+      </factory>
+       <factory
+            adaptableType="org.jivesoftware.smack.RosterEntry"
+            class="org.eclipsercp.hyperbola.AdapterFactory">
+         <adapter type="org.eclipse.ui.model.IWorkbenchAdapter"/>
+      </factory>
+   </extension>
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            class="org.eclipsercp.hyperbola.ChatEditor"
+            default="false"
+            icon="icons/chat.gif"
+            id="org.eclipsercp.hyperbola.editors.chat"
+            name="Chat"/>      
+   </extension>
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="org.eclipsercp.hyperbola.application"
+            name="Hyperbola Chat Client">
+         <property
+               name="windowImages"
+               value="icons/alt16.gif,icons/alt32.gif"/>
+         <property
+               name="aboutImage"
+               value="icons/about.gif"/>
+         <property
+               name="aboutText"
+               value="%aboutText"/>
+         <property
+               name="preferenceCustomization"
+               value="preferences.ini"/>
+      </product>
+   </extension>
+   <extension
+         point="org.eclipse.ui.commands">
+      <category
+            description="Hyperbola Commands"
+            id="org.eclipsercp.hyperbola.commands"
+            name="Hyperbola"/>
+      <command
+            categoryId="org.eclipsercp.hyperbola.commands"
+            description="Add a contact to the selected contact group"
+            id="org.eclipsercp.hyperbola.addContact"
+            name="Add Contact"/>
+      <command
+            categoryId="org.eclipsercp.hyperbola.commands"
+            description="Chat with the selected contact"
+            id="org.eclipsercp.hyperbola.chat"
+            name="Chat"/>
+      <command
+            categoryId="org.eclipsercp.hyperbola.commands"
+            description="Toggle the visibility of the quick find area"
+            id="org.eclipsercp.hyperbola.toggleFindArea"
+            name="Toggle Find Area"/>
+      <keyBinding
+            commandId="org.eclipsercp.hyperbola.addContact"
+            keyConfigurationId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            keySequence="M1+A"/>
+      <keyBinding
+            commandId="org.eclipsercp.hyperbola.addContact"
+            keyConfigurationId="org.eclipsercp.hyperbola.keyConfig"
+            keySequence="M1+B"/>            
+      <keyBinding
+            commandId="org.eclipse.ui.file.exit"
+            keyConfigurationId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            keySequence="M1+Q"/>
+      <keyBinding
+            commandId="org.eclipsercp.hyperbola.chat"
+            keyConfigurationId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            keySequence="M1+U"/>
+      <keyBinding
+            commandId="org.eclipse.ui.help.aboutAction"
+            keyConfigurationId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            keySequence="M1+M2+F1"/>
+      <keyBinding
+            commandId="org.eclipsercp.hyperbola.toggleFindArea"
+            keyConfigurationId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            keySequence="M1+K"/>
+      <keyConfiguration
+            description="Keys for Hyperbola "
+            id="org.eclipsercp.hyperbola.keyConfig"
+            name="Hyperbola Keys"/>
+   </extension>
+   <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+            class="org.eclipsercp.hyperbola.GeneralPreferencePage"
+            id="org.eclipsercp.hyperbola.preferences.general"
+            name="General"/>
+      <page
+            class="org.eclipse.ui.ExtensionFactory:keysPreferencePage"
+            id="org.eclipsercp.hyperbola.preferences.keys"
+            name="Keys"/>
+   </extension>
+   <extension
+         point="org.eclipse.core.runtime.preferences">
+      <initializer class="org.eclipsercp.hyperbola.PreferenceInitializer"/>
+   </extension>
+   <extension
+         point="org.eclipse.help.toc">
+      <toc
+            file="toc.xml"
+            primary="true"/>
+      <toc file="tocgettingstarted.xml"/>
+      <toc file="toctasks.xml"/>
+   </extension>
+   <extension
+         point="org.eclipse.help.contexts">
+      <contexts file="contexts.xml"/>
+   </extension>
+</plugin>

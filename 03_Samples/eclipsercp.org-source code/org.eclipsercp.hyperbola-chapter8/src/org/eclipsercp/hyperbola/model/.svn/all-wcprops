@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model
+END
+ContactsEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model/ContactsEntry.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model/Session.java
+END
+Presence.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model/Presence.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model/Contact.java
+END
+ContactsGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model/ContactsGroup.java
+END
+IContactsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter8/src/org/eclipsercp/hyperbola/model/IContactsListener.java
+END

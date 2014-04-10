@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola
+END
+AddContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/AddContactAction.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/Application.java
+END
+AddContactDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/AddContactDialog.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ApplicationWorkbenchWindowAdvisor.java
+END
+ChatEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ChatEditor.java
+END
+ChatEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ChatEditorInput.java
+END
+IImageKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/IImageKeys.java
+END
+ContactsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ContactsView.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/Perspective.java
+END
+ChatAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ChatAction.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ApplicationActionBarAdvisor.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/ApplicationWorkbenchAdvisor.java
+END
+HyperbolaAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/org.eclipsercp.hyperbola-chapter7/src/org/eclipsercp/hyperbola/HyperbolaAdapterFactory.java
+END

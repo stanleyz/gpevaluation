@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pde version="3.1"?>
+
+<product name="Hyperbola Chat Client" id="org.eclipsercp.hyperbola.product" application="org.eclipsercp.hyperbola.application" useFeatures="true">
+
+   <aboutInfo>
+      <image path="/org.eclipsercp.hyperbola/icons/about.gif"/>
+      <text>
+         %aboutText
+      </text>
+   </aboutInfo>
+
+   <configIni use="default" path="/org.eclipsercp.hyperbola/configuration/config.ini"/>
+
+   <launcherArgs>
+   </launcherArgs>
+
+   <windowImages i16="/org.eclipsercp.hyperbola/icons/alt16.gif" i32="/org.eclipsercp.hyperbola/icons/alt32.gif"/>
+
+   <splash
+      location="org.eclipsercp.hyperbola" />
+   <launcher name="hyperbola">
+      <linux icon="/org.eclipsercp.hyperbola/branding/hyperbola.xpm"/>
+      <macosx icon="/org.eclipsercp.hyperbola/branding/hyperbola.icns"/>
+      <solaris
+            solarisLarge="/org.eclipsercp.hyperbola/branding/hyperbola.l.pm"
+            solarisMedium="/org.eclipsercp.hyperbola/branding/hyperbola.m.pm"
+            solarisSmall="/org.eclipsercp.hyperbola/branding/hyperbola.s.pm"
+            solarisTiny="/org.eclipsercp.hyperbola/branding/hyperbola.t.pm"/>
+      <win useIco="true">
+         <ico path="/org.eclipsercp.hyperbola/branding/hyperbola.ico"/>
+         <bmp/>
+      </win>
+   </launcher>
+
+
+   <plugins>
+      <plugin id="org.apache.lucene"/>
+      <plugin id="org.eclipse.core.commands"/>
+      <plugin id="org.eclipse.core.expressions"/>
+      <plugin id="org.eclipse.core.runtime"/>
+      <plugin id="org.eclipse.help"/>
+      <plugin id="org.eclipse.help.appserver"/>
+      <plugin id="org.eclipse.help.base"/>
+      <plugin id="org.eclipse.help.ui"/>
+      <plugin id="org.eclipse.help.webapp"/>
+      <plugin id="org.eclipse.jface"/>
+      <plugin id="org.eclipse.osgi"/>
+      <plugin id="org.eclipse.swt"/>
+      <plugin id="org.eclipse.swt.carbon.macosx.ppc"/>
+      <plugin id="org.eclipse.swt.gtk.linux.ppc"/>
+      <plugin id="org.eclipse.swt.gtk.linux.x86"/>
+      <plugin id="org.eclipse.swt.gtk.linux.x86_64"/>
+      <plugin id="org.eclipse.swt.gtk.solaris.sparc"/>
+      <plugin id="org.eclipse.swt.motif.aix.ppc"/>
+      <plugin id="org.eclipse.swt.motif.hpux.PA_RISC"/>
+      <plugin id="org.eclipse.swt.motif.linux.x86"/>
+      <plugin id="org.eclipse.swt.motif.solaris.sparc"/>
+      <plugin id="org.eclipse.swt.win32.win32.x86" fragment="true"/>
+      <plugin id="org.eclipse.tomcat"/>
+      <plugin id="org.eclipse.ui"/>
+      <plugin id="org.eclipse.ui.carbon"/>
+      <plugin id="org.eclipse.ui.forms"/>
+      <plugin id="org.eclipse.ui.workbench"/>
+      <plugin id="org.eclipse.update.configurator"/>
+      <plugin id="org.eclipse.update.core"/>
+      <plugin id="org.eclipse.update.core.linux"/>
+      <plugin id="org.eclipse.update.core.win32" fragment="true"/>
+      <plugin id="org.eclipse.update.ui"/>
+      <plugin id="org.eclipsercp.hyperbola"/>
+      <plugin id="org.jivesoftware.smack"/>
+   </plugins>
+
+   <features>
+      <feature id="org.eclipsercp.hyperbola.feature" version="1.0.0"/>
+   </features>
+
+</product>

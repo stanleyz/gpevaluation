@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter17/org.eclipsercp.hyperbola/src/org/eclipsercp/hyperbola/actions
+END
+ProgressAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter17/org.eclipsercp.hyperbola/src/org/eclipsercp/hyperbola/actions/ProgressAction.java
+END
+ImportContactsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter17/org.eclipsercp.hyperbola/src/org/eclipsercp/hyperbola/actions/ImportContactsAction.java
+END
+SearchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter17/org.eclipsercp.hyperbola/src/org/eclipsercp/hyperbola/actions/SearchField.java
+END
+StatusLineContribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter17/org.eclipsercp.hyperbola/src/org/eclipsercp/hyperbola/actions/StatusLineContribution.java
+END
+ExportContactsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter17/org.eclipsercp.hyperbola/src/org/eclipsercp/hyperbola/actions/ExportContactsAction.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui/Application.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui/ApplicationWorkbenchWindowAdvisor.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui/Perspective.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui/Activator.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui/ApplicationActionBarAdvisor.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/21/GPEvaluation/03_Samples/de.spiritlink.custom.ui/src/de/spiritlink/custom/ui/ApplicationWorkbenchAdvisor.java
+END

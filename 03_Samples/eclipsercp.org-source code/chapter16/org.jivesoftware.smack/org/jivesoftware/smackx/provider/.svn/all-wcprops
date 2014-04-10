@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider
+END
+DiscoverItemsProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/DiscoverItemsProvider.class
+END
+RosterExchangeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/RosterExchangeProvider.class
+END
+MUCUserProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/MUCUserProvider.class
+END
+DelayInformationProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/DelayInformationProvider.class
+END
+PrivateDataProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/PrivateDataProvider.class
+END
+MessageEventProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/MessageEventProvider.class
+END
+XHTMLExtensionProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/XHTMLExtensionProvider.class
+END
+DiscoverInfoProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/DiscoverInfoProvider.class
+END
+DataFormProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/DataFormProvider.class
+END
+MUCAdminProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/MUCAdminProvider.class
+END
+MUCOwnerProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter16/org.jivesoftware.smack/org/jivesoftware/smackx/provider/MUCOwnerProvider.class
+END

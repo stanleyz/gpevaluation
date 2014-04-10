@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Smack Plug-in
+Bundle-SymbolicName: org.jivesoftware.smack
+Bundle-Version: 1.5
+Bundle-ClassPath: .
+Bundle-Vendor: Jive Software
+Bundle-Localization: plugin
+Export-Package: .,
+ org.jivesoftware.smack,
+ org.jivesoftware.smack.debugger,
+ org.jivesoftware.smack.filter,
+ org.jivesoftware.smack.packet,
+ org.jivesoftware.smack.provider,
+ org.jivesoftware.smack.util,
+ org.jivesoftware.smackx,
+ org.jivesoftware.smackx.muc,
+ org.jivesoftware.smackx.packet,
+ org.jivesoftware.smackx.provider,
+ org.xmlpull.mxp1,
+ org.xmlpull.v1

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet
+END
+MUCUser$Decline.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCUser$Decline.class
+END
+MUCOwner$Destroy.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCOwner$Destroy.class
+END
+MUCAdmin$Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCAdmin$Item.class
+END
+DiscoverItems.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DiscoverItems.class
+END
+DataForm$Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DataForm$Item.class
+END
+RosterExchange.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/RosterExchange.class
+END
+MUCOwner$Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCOwner$Item.class
+END
+MUCInitialPresence.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCInitialPresence.class
+END
+MUCUser.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCUser.class
+END
+MessageEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MessageEvent.class
+END
+XHTMLExtension.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/XHTMLExtension.class
+END
+DiscoverInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DiscoverInfo.class
+END
+MUCUser$Status.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCUser$Status.class
+END
+MUCAdmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCAdmin.class
+END
+DataForm.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DataForm.class
+END
+Time.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/Time.class
+END
+MUCOwner.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCOwner.class
+END
+DataForm$ReportedData.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DataForm$ReportedData.class
+END
+MUCUser$Destroy.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCUser$Destroy.class
+END
+DiscoverItems$Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DiscoverItems$Item.class
+END
+DelayInformation.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DelayInformation.class
+END
+PrivateData.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/PrivateData.class
+END
+MUCUser$Invite.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCUser$Invite.class
+END
+MUCUser$Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCUser$Item.class
+END
+DiscoverInfo$Identity.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DiscoverInfo$Identity.class
+END
+MUCInitialPresence$History.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/MUCInitialPresence$History.class
+END
+DefaultPrivateData.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DefaultPrivateData.class
+END
+DiscoverInfo$Feature.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smackx/packet/DiscoverInfo$Feature.class
+END

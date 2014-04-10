@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util
+END
+ObservableWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util/ObservableWriter.class
+END
+WriterListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util/WriterListener.class
+END
+PacketParserUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util/PacketParserUtils.class
+END
+ObservableReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util/ObservableReader.class
+END
+StringUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util/StringUtils.class
+END
+ReaderListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21/GPEvaluation/03_Samples/eclipsercp.org-source%20code/chapter19/org.jivesoftware.smack/org/jivesoftware/smack/util/ReaderListener.class
+END

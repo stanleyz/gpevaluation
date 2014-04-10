@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/56/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/54/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing/Application.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/54/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing/ApplicationWorkbenchWindowAdvisor.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/54/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing/Perspective.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/56/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing/Activator.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/56/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing/ApplicationActionBarAdvisor.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/54/GPEvaluation/03_Samples/de.spiritlink.editor.printing/src/de/spiritlink/editor/printing/ApplicationWorkbenchAdvisor.java
+END
