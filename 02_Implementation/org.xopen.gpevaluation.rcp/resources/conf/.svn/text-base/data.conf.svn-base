@@ -1,4 +1,0 @@
-#This is the folder used to store evaluation systems, you can add your folders here.
-#Application can add multiple such entries to include as many locations of evaluation systems.
-data.scheme.dir=./resources/data
-data.scheme.dir=./resources/other
